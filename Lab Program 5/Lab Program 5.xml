@@ -1,0 +1,27 @@
+<?xml-stylesheet type="text/css" href="5.css"?>
+<STUDENTDATA>
+    <STUDENT>
+        <USN>USN:4MT17IS047</USN>
+        <NAME>NAME:SHREYAS KS</NAME>
+        <COLLEGE>COLLEGE:MITE</COLLEGE>
+        <BRANCH>BRANCH:ISE</BRANCH>
+        <YEAR>YEAR:2020</YEAR>
+        <EMAIL>E-MAIL:shreyasks99@gmail.com</EMAIL>
+    </STUDENT>
+    <STUDENT>
+        <USN>USN:4MT17IS046</USN>
+        <NAME>NAME:SHISHIR SHETTY</NAME>
+        <BRANCH>BRANCH:ISE</BRANCH>
+        <COLLEGE>COLLEGE:MITE</COLLEGE>
+        <YEAR>YEAR:2020</YEAR>
+        <EMAIL>E-MAIL:shishir@gmail.com</EMAIL>
+    </STUDENT>
+    <STUDENT>
+        <USN>USN:4MT17IS026</USN>
+        <NAME>NAME:MELISSA </NAME>
+        <BRANCH>BRANCH:ISE</BRANCH>
+        <COLLEGE>COLLEGE:MITE</COLLEGE>
+        <YEAR>YEAR:2020</YEAR>
+        <EMAIL>E-MAIL:mel@gmail.com</EMAIL>
+    </STUDENT>
+</STUDENTDATA>

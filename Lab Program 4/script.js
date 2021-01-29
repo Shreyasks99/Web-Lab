@@ -21,5 +21,5 @@ function reverse(num){
         num -=num%10;
         num = Math.floor(num/10);
     }
-    return "Reverse of a num "+temp+ " is " +reverse_num;
+    return "Reverse of a nummm "+temp+ " is " +reverse_num;
 }
